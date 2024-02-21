@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: #1B1A55;
+}
+h1 {
+    color: #9290C3;
+    font-size: 40px;
+    opacity: 100;
+}
+
+button {
+    background-color: #9290C3;
+    color: #1B1A55;
+    font-size: 2rem;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.c {
+    margin: 0;
+    height: 100vh;
+}
+
+.invisible {
+    opacity: 0;
+}
+
